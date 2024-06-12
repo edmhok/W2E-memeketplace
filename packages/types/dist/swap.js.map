@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "swap.js",
+    "sourceRoot": "",
+    "sources": [
+        "../src/swap.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

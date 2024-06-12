@@ -1,0 +1,35 @@
+{
+  "name": "@w2e/hooks",
+  "version": "0.0.1",
+  "sideEffects": [
+    "*.css.ts"
+  ],
+  "private": true,
+  "main": "./dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "check": "tsc --pretty --noEmit",
+    "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf build",
+    "dev": "tsc --watch",
+    "test": "jest --passWithNoTests"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.5",
+    "@types/react": "17.0.2",
+    "@types/react-dom": "17.0.2"
+  },
+  "dependencies": {
+    "qs": "^6.9.4",
+    "bignumber.js": "^9.0.1",
+    "@w2e/actor": "workspace:*",
+    "@w2e/candid": "workspace:*",
+    "@w2e/types": "workspace:*",
+    "@w2e/utils": "workspace:*",
+    "@w2e/token-adapter": "workspace:*",
+    "@w2e/constants": "workspace:*",
+    "@w2e/swap-sdk": "workspace:*"
+  }
+}

@@ -1,0 +1,28 @@
+export type {
+  PublicProtocolData,
+  TvlChartDayData,
+  PublicSwapChartDayData,
+  BaseTransaction,
+  PublicPoolOverView,
+  PublicTokenOverview,
+  PoolOverview,
+  PublicPoolChartDayData,
+  PoolStorageTransaction,
+  InfoToken,
+  PublicTokenChartDayData,
+  InfoTokenTransaction,
+  PublicTokenPricesData,
+  TokenPoolsInfo,
+  UserStorageTransaction,
+} from "@w2e/candid";
+export type AllPoolsTVL = Array<[string, number]>;
+export type AllTokensTVL = Array<[string, number]>;
+export type PoolLatestTVL = {
+  tvlUSD: number;
+  tvlUSDChange: number;
+};
+export type TokenLatestTVL = {
+  tvlUSD: number;
+  tvlUSDChange: number;
+};
+// # sourceMappingURL=info.d.ts.map

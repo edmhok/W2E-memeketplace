@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "LaunchpadController.did.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/launchpad/LaunchpadController.did.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,eAAO,MAAM,UAAU,YAAa,GAAG,QA+DtC,CAAC"
+}

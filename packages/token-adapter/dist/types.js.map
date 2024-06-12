@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "types.js",
+    "sourceRoot": "",
+    "sources": [
+        "../src/types.ts"
+    ],
+    "names": [],
+    "mappings": "AAqFA,MAAM,CAAN,IAAY,cAQX;AARD,WAAY,cAAc;IACxB,6BAAW,CAAA;IACX,iCAAe,CAAA;IACf,6BAAW,CAAA;IACX,2CAAyB,CAAA;IACzB,yCAAuB,CAAA;IACvB,iCAAe,CAAA;IACf,iCAAe,CAAA;AACjB,CAAC,EARW,cAAc,KAAd,cAAc,QAQzB"
+}

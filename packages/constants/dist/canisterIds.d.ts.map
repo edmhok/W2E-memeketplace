@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "canisterIds.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../src/canisterIds.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,eAAO,MAAM,kBAAkB,gCAAgC,CAAC;AAEhE,eAAO,MAAM,sBAAsB,gCAAgC,CAAC;AAEpE,eAAO,MAAM,gBAAgB,gCAAgC,CAAC;AAE9D,eAAO,MAAM,eAAe,gCAAgC,CAAC"
+}

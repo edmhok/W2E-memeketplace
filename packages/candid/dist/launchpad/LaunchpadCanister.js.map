@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "LaunchpadCanister.js",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/launchpad/LaunchpadCanister.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@w2e/tokens",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "check": "tsc --pretty --noEmit",
+    "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf build",
+    "dev": "tsc --watch",
+    "test": "jest --passWithNoTests"
+  },
+  "dependencies": {
+    "@w2e/types": "../types",
+    "@w2e/swap-sdk": "../swap-sdk",
+    "@w2e/constants": "../constants"
+  }
+}

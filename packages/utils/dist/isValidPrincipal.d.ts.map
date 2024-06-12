@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "isValidPrincipal.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../src/isValidPrincipal.ts"
+    ],
+    "names": [],
+    "mappings": "AAEA,wBAAgB,gBAAgB,CAAC,SAAS,EAAE,MAAM,GAAG,OAAO,CAM3D"
+}

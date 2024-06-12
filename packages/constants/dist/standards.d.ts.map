@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "standards.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../src/standards.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,oBAAY,cAAc;IACxB,GAAG,QAAQ;IACX,KAAK,UAAU;IACf,GAAG,QAAQ;IACX,UAAU,eAAe;IACzB,SAAS,cAAc;IACvB,KAAK,UAAU;IACf,KAAK,UAAU;CAChB"
+}

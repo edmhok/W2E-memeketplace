@@ -1,0 +1,1 @@
+{"version":3,"file":"icrc1.d.ts","sourceRoot":"","sources":["../../src/token/icrc1.ts"],"names":[],"mappings":"AACA,OAAO,EACL,WAAW,EAEX,aAAa,EAEb,KAAK,EAEN,MAAM,iBAAiB,CAAC;AACzB,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,gBAAgB,CAAC;AAEpD,eAAO,MAAM,WAAW,eAAgB,MAAM,iEAI1C,CAAC;AAEL,eAAO,MAAM,KAAK,eAAgB,MAAM,aAAa,aAAa,mEAK9D,CAAC;AAEL,eAAO,MAAM,KAAK,eAAgB,MAAM,aAAa,aAAa,2DAK9D,CAAC"}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "index.js",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/swap/index.ts"
+    ],
+    "names": [],
+    "mappings": ";;;;;;;;;AAAA,OAAO,EAEL,+BAA+B,GAChC,MAAM,iBAAiB,CAAC;AACzB,OAAO,EAAE,KAAK,EAAE,MAAM,UAAU,CAAC;AACjC,OAAO,EAAE,SAAS,EAAE,MAAM,cAAc,CAAC;AAEzC,MAAM,CAAC,MAAM,eAAe,GAAG,CAAO,QAAe,EAAE,EAAE;IACvD,OAAA,KAAK,CAAC,MAAM,CAAyB;QACnC,QAAQ;QACR,UAAU,EAAE,+BAA+B;QAC3C,SAAS,EAAE,SAAS,CAAC,eAAe;KACrC,CAAC,CAAA;EAAA,CAAC;AAEL,cAAc,UAAU,CAAC"
+}

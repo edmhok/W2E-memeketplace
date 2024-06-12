@@ -1,0 +1,22 @@
+{
+  "canisters": {
+    "interface": {
+      "frontend": {
+        "entrypoint": "./public/index.html"
+      },
+      "source": [
+        "./build"
+      ],
+      "type": "assets"
+    }
+  },
+  "version": 1,
+  "networks": {
+    "release": {
+      "providers": [
+        "https://icp0.io"
+      ],
+      "type": "persistent"
+    }
+  }
+}

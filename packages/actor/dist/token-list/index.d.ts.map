@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "index.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/token-list/index.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,OAAO,EACL,gBAAgB,EAGhB,qBAAqB,EACtB,MAAM,iBAAiB,CAAC;AAIzB,eAAO,MAAM,SAAS,cAAqB,IAAI,sEAK3C,CAAC;AAEL,eAAO,MAAM,cAAc,8EAIvB,CAAC"
+}

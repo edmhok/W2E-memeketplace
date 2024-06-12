@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "icp.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../src/icp.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,mBAAmB,CAAC;AAC1C,OAAO,EAAE,SAAS,EAAE,MAAM,gBAAgB,CAAC;AAG3C,eAAO,MAAM,cAAc,EAAE,SAS5B,CAAC;AAEF,eAAO,MAAM,GAAG,OAQd,CAAC"
+}

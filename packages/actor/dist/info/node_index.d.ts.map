@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "node_index.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/info/node_index.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,OAAO,EAAE,SAAS,EAA6B,MAAM,iBAAiB,CAAC;AAIvE,eAAO,MAAM,UAAU,kEAInB,CAAC"
+}

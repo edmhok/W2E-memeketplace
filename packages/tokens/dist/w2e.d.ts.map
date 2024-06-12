@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "file": "w2e.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../src/w2e.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,mBAAmB,CAAC;AAC1C,OAAO,EAAE,SAAS,EAAE,MAAM,gBAAgB,CAAC;AAG3C,eAAO,MAAM,cAAc,EAAE,SAS5B,CAAC;AAEF,eAAO,MAAM,GAAG,OAQd,CAAC"
+}

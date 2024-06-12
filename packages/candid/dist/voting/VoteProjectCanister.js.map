@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "VoteProjectCanister.js",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/voting/VoteProjectCanister.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

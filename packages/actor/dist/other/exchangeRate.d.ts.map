@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "exchangeRate.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/other/exchangeRate.ts"
+    ],
+    "names": [],
+    "mappings": "AACA,OAAO,EAAE,YAAY,EAAgC,MAAM,iBAAiB,CAAC;AAE7E,eAAO,MAAM,YAAY,qEAIrB,CAAC"
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"Proportion.d.ts","sourceRoot":"","sources":["../../src/components/Proportion.tsx"],"names":[],"mappings":"AAIA,MAAM,WAAW,eAAe;IAC9B,KAAK,EAAE,MAAM,GAAG,MAAM,GAAG,MAAM,GAAG,SAAS,GAAG,IAAI,CAAC;IACnD,KAAK,CAAC,EAAE,OAAO,GAAG,MAAM,GAAG,SAAS,GAAG,QAAQ,GAAG,SAAS,GAAG,SAAS,CAAC;CACzE;AAsCD,wBAAgB,UAAU,CAAC,EAAE,KAAK,EAAE,GAAG,KAAK,EAAE,EAAE,eAAe,eAuB9D"}

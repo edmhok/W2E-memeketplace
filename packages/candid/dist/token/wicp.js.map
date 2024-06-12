@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "wicp.js",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/token/wicp.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"neuronCommand.js","sourceRoot":"","sources":["../../src/sns/neuronCommand.ts"],"names":[],"mappings":"AAEA,MAAM,UAAU,sBAAsB,CAAC,SAAoB;IACzD,OAAO;QACL;YACE,SAAS,EAAE;gBACT,SAAS,EAAE,CAAC,SAAS,CAAC;aACvB;SACF;KACF,CAAC;AACJ,CAAC"}

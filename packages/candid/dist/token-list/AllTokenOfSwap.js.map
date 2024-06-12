@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "AllTokenOfSwap.js",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/token-list/AllTokenOfSwap.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

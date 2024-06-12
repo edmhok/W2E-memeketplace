@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "index.js",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/token-list/index.ts"
+    ],
+    "names": [],
+    "mappings": "AACA,OAAO,EAAE,UAAU,IAAI,yBAAyB,EAAE,MAAM,iBAAiB,CAAC;AAG1E,OAAO,EAAE,UAAU,IAAI,8BAA8B,EAAE,MAAM,sBAAsB,CAAC"
+}

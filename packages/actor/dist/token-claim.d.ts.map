@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "token-claim.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../src/token-claim.ts"
+    ],
+    "names": [],
+    "mappings": "AACA,OAAO,EAAE,aAAa,EAAE,MAAM,gBAAgB,CAAC;AAE/C,OAAO,EACL,eAAe,EAEf,YAAY,EAEb,MAAM,iBAAiB,CAAC;AAEzB,eAAO,MAAM,oBAAoB,cAAe,aAAa,qEAKzD,CAAC;AAEL,eAAO,MAAM,iBAAiB,eAChB,MAAM,aACP,aAAa,kEAMtB,CAAC"
+}

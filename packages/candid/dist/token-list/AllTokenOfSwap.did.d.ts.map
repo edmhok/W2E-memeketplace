@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "AllTokenOfSwap.did.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/token-list/AllTokenOfSwap.did.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,eAAO,MAAM,UAAU,YAAa,GAAG,QAqCtC,CAAC"
+}

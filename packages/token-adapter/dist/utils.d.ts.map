@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "utils.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../src/utils.ts"
+    ],
+    "names": [],
+    "mappings": "AACA,OAAO,EAAE,eAAe,EAAE,MAAM,iBAAiB,CAAC;AAElD,OAAO,EAAE,WAAW,IAAI,gBAAgB,EAAE,MAAM,SAAS,CAAC;AAE1D,wBAAgB,qBAAqB,CAAC,WAAW,EAAE,eAAe,EAAE,KAAK,EAAE,MAAM,oBAwDhF"
+}

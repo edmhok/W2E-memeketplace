@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "date.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../src/date.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,eAAO,MAAM,iBAAiB,KAAK,CAAC;AACpC,eAAO,MAAM,eAAe,KAAK,CAAC;AAClC,eAAO,MAAM,YAAY,KAAK,CAAC;AAC/B,eAAO,MAAM,eAAe,QAAsC,CAAC;AACnE,eAAO,MAAM,cAAc,QAAiC,CAAC;AAE7D,eAAO,MAAM,eAAe,QAAuC,CAAC;AACpE,eAAO,MAAM,oBAAoB,QAAsB,CAAC;AACxD,eAAO,MAAM,gBAAgB,QAAuB,CAAC;AACrD,eAAO,MAAM,qBAAqB,QAAsB,CAAC;AACzD,eAAO,MAAM,sBAAsB,QAAsB,CAAC"
+}

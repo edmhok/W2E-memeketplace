@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "index.js",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/voting/index.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,OAAO,EAAE,UAAU,IAAI,8BAA8B,EAAE,MAAM,sBAAsB,CAAC;AAGpF,OAAO,EAAE,UAAU,IAAI,wBAAwB,EAAE,MAAM,oBAAoB,CAAC;AAM5E,OAAO,EAAE,UAAU,IAAI,2BAA2B,EAAE,MAAM,2BAA2B,CAAC"
+}

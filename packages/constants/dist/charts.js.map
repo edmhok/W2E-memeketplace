@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "charts.js",
+    "sourceRoot": "",
+    "sources": [
+        "../src/charts.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,MAAM,CAAN,IAAY,YAIX;AAJD,WAAY,YAAY;IACtB,iDAAK,CAAA;IACL,mDAAM,CAAA;IACN,qDAAO,CAAA;AACT,CAAC,EAJW,YAAY,KAAZ,YAAY,QAIvB"
+}

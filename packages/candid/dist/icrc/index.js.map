@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "index.js",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/icrc/index.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,OAAO,EAAE,UAAU,IAAI,qBAAqB,EAAE,MAAM,aAAa,CAAC;AASlE,OAAO,EAAE,UAAU,IAAI,qBAAqB,EAAE,MAAM,aAAa,CAAC;AAGlE,OAAO,EAAE,UAAU,IAAI,2BAA2B,EAAE,MAAM,oBAAoB,CAAC"
+}

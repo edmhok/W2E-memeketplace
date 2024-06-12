@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "cap.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/cap/cap.ts"
+    ],
+    "names": [],
+    "mappings": "AAEA,OAAO,EACL,GAAG,EAEH,SAAS,EAEV,MAAM,iBAAiB,CAAC;AAEzB,eAAO,MAAM,GAAG,eAAgB,MAAM,yDAIlC,CAAC;AAEL,eAAO,MAAM,UAAU,kEAInB,CAAC"
+}

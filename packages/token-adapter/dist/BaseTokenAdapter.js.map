@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "BaseTokenAdapter.js",
+    "sourceRoot": "",
+    "sources": [
+        "../src/BaseTokenAdapter.ts"
+    ],
+    "names": [],
+    "mappings": "AAmHA,MAAM,OAAgB,gBAAgB;IAGpC,YAAY,EAAE,KAAK,EAAyF;QAC1G,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;IACrB,CAAC;CAiCF"
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "Pools.did.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/analytic/Pools.did.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,eAAO,MAAM,UAAU,YAAa,GAAG,QA0HtC,CAAC;AACF,eAAO,MAAM,IAAI,YAAa,GAAG,UAEhC,CAAC"
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "LaunchpadManager.js",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/launchpad/LaunchpadManager.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

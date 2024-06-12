@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "index.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/other/index.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,cAAc,gBAAgB,CAAC"
+}

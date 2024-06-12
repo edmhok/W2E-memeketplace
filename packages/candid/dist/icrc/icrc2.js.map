@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "icrc2.js",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/icrc/icrc2.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

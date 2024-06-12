@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "host.js",
+    "sourceRoot": "",
+    "sources": [
+        "../src/host.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,MAAM,CAAC,MAAM,OAAO,GAAG,iBAAiB,CAAC"
+}

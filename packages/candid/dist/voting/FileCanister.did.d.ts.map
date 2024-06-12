@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "FileCanister.did.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/voting/FileCanister.did.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,eAAO,MAAM,UAAU,YAAa,GAAG,QA8DtC,CAAC"
+}

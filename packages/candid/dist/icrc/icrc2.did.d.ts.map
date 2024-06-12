@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "icrc2.did.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/icrc/icrc2.did.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,eAAO,MAAM,UAAU,YAAa,GAAG,QA8PtC,CAAC;AACF,eAAO,MAAM,IAAI;;WAwDhB,CAAC"
+}

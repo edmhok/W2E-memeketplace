@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "exchangeRate.js",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/other/exchangeRate.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,UAAU,CAAC;AACjC,OAAO,EAAgB,4BAA4B,EAAE,MAAM,iBAAiB,CAAC;AAE7E,MAAM,CAAC,MAAM,YAAY,GAAG,GAAG,EAAE,CAC/B,KAAK,CAAC,MAAM,CAAe;IACzB,UAAU,EAAE,6BAA6B;IACzC,UAAU,EAAE,4BAA4B;CACzC,CAAC,CAAC"
+}

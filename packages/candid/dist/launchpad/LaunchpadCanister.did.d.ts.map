@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "LaunchpadCanister.did.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/launchpad/LaunchpadCanister.did.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,eAAO,MAAM,UAAU,YAAa,GAAG,QAqEtC,CAAC"
+}

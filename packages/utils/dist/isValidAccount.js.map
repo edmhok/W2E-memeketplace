@@ -1,0 +1,1 @@
+{"version":3,"file":"isValidAccount.js","sourceRoot":"","sources":["../src/isValidAccount.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,MAAM,kBAAkB,GAAG,EAAE,CAAC;AAErC,MAAM,UAAU,cAAc,CAAC,OAAe;IAC5C,OAAO,CACL,gBAAgB,CAAC,IAAI,CAAC,OAAO,CAAC,IAAI,kBAAkB,KAAK,OAAO,CAAC,MAAM,CACxE,CAAC;AACJ,CAAC"}

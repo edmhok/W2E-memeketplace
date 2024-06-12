@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "TokenList.js",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/token-list/TokenList.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

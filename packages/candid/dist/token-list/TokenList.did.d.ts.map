@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "TokenList.did.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/token-list/TokenList.did.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,eAAO,MAAM,UAAU,YAAa,GAAG,QA0CtC,CAAC"
+}

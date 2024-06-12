@@ -1,0 +1,1 @@
+{"version":3,"file":"dip20_supply.did.js","sourceRoot":"","sources":["../../src/dip20/dip20_supply.did.ts"],"names":[],"mappings":"AAAA,eAAe,CAAC,EAAE,GAAG,EAAE,EAAE,EAAE;IACzB,OAAO,GAAG,CAAC,OAAO,CAAC;QACjB,WAAW,EAAE,GAAG,CAAC,IAAI,CAAC,EAAE,EAAE,CAAC,GAAG,CAAC,GAAG,CAAC,EAAE,EAAE,CAAC;KACzC,CAAC,CAAC;AACL,CAAC,CAAC"}

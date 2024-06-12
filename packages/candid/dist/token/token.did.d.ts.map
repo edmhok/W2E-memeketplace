@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "token.did.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/token/token.did.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,eAAO,MAAM,UAAU,YAAa,GAAG,QAyJtC,CAAC"
+}

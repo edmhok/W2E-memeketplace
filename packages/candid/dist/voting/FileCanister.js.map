@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "FileCanister.js",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/voting/FileCanister.ts"
+    ],
+    "names": [],
+    "mappings": ""
+}

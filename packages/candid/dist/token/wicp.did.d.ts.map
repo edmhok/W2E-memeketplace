@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "wicp.did.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/token/wicp.did.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,eAAO,MAAM,UAAU,YAAa,GAAG,QAwLtC,CAAC"
+}

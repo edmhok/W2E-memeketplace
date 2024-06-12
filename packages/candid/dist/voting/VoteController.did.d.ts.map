@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "VoteController.did.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/voting/VoteController.did.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,eAAO,MAAM,UAAU,YAAa,GAAG,QA0CtC,CAAC"
+}

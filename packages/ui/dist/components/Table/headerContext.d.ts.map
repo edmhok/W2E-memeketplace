@@ -1,0 +1,1 @@
+{"version":3,"file":"headerContext.d.ts","sourceRoot":"","sources":["../../../src/components/Table/headerContext.ts"],"names":[],"mappings":";AACA,OAAO,EAAE,aAAa,EAAE,MAAM,SAAS,CAAC;AAExC,MAAM,WAAW,kBAAkB;IACjC,SAAS,EAAE,MAAM,CAAC;IAClB,aAAa,EAAE,aAAa,CAAC;IAC7B,UAAU,EAAE,CAAC,SAAS,EAAE,MAAM,EAAE,aAAa,EAAE,aAAa,KAAK,IAAI,CAAC;CACvE;;AAED,wBAGyB"}

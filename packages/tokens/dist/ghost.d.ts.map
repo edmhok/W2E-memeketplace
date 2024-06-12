@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "ghost.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../src/ghost.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,mBAAmB,CAAC;AAC1C,OAAO,EAAE,SAAS,EAAE,MAAM,gBAAgB,CAAC;AAG3C,eAAO,MAAM,gBAAgB,EAAE,SAgJ9B,CAAC;AAEF,eAAO,MAAM,KAAK,OAQhB,CAAC"
+}

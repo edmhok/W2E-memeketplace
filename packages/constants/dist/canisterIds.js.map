@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "canisterIds.js",
+    "sourceRoot": "",
+    "sources": [
+        "../src/canisterIds.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,MAAM,CAAC,MAAM,kBAAkB,GAAG,6BAA6B,CAAC;AAEhE,MAAM,CAAC,MAAM,sBAAsB,GAAG,6BAA6B,CAAC;AAEpE,MAAM,CAAC,MAAM,gBAAgB,GAAG,6BAA6B,CAAC;AAE9D,MAAM,CAAC,MAAM,eAAe,GAAG,6BAA6B,CAAC"
+}

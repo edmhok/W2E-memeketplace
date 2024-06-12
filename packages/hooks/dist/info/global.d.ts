@@ -1,0 +1,20 @@
+import { AllPoolsTVL, AllTokensTVL, PoolLatestTVL, PublicProtocolData, TokenLatestTVL } from "@w2e/types";
+export declare function getAllPoolsTVL(): Promise<AllPoolsTVL>;
+export declare function useAllPoolsTVL(): import("@w2e/types").CallResult<AllPoolsTVL>;
+export declare function getAllTokensTVL(): Promise<AllTokensTVL>;
+export declare function useAllTokensTVL(): import("@w2e/types").CallResult<AllTokensTVL>;
+export declare function getSwapProtocolData(): Promise<PublicProtocolData>;
+export declare function useSwapProtocolData(): import("@w2e/types").CallResult<PublicProtocolData>;
+export declare function getPoolLatestTVL(id: string): Promise<PoolLatestTVL>;
+export declare function usePoolLatestTVL(id: string | undefined): import("@w2e/types").CallResult<PoolLatestTVL>;
+export declare function getTokenLatestTVL(id: string): Promise<TokenLatestTVL>;
+export declare function useTokenLatestTVL(id: string | undefined): import("@w2e/types").CallResult<TokenLatestTVL>;
+export declare function getGlobalLatestStorageCanister(): Promise<string>;
+export declare function useGlobalLatestStorageCanister(): import("@w2e/types").CallResult<string>;
+export declare function getGlobalStorageCanister(): Promise<string[]>;
+export declare function useGlobalStorageCanister(): import("@w2e/types").CallResult<string[]>;
+export declare function getTvlLatestStorageCanister(): Promise<string>;
+export declare function useTvlLatestStorageCanister(): import("@w2e/types").CallResult<string>;
+export declare function getTvlStorageCanister(): Promise<string[]>;
+export declare function useTvlStorageCanister(): import("@w2e/types").CallResult<string[]>;
+//# sourceMappingURL=global.d.ts.map

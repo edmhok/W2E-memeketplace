@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "token-standard-verification.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../src/token-standard-verification.ts"
+    ],
+    "names": [],
+    "mappings": "AAOA,OAAO,EAAE,cAAc,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAEnD,wBAAsB,yBAAyB,CAAC,UAAU,EAAE,MAAM,EAAE,QAAQ,EAAE,cAAc;;;;GAuF3F"
+}

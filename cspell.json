@@ -1,0 +1,48 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+  "version": "0.2",
+  "dictionaries": [
+    "typescript",
+    "node",
+    "html",
+    "css",
+    "fonts"
+  ],
+  "ignorePaths": [
+    "node_modules",
+    "packages/*/dist",
+    "/build",
+    "/locales/*"
+  ],
+  "words": [
+    "waste2earn",
+    "dfinity",
+    "bignumber",
+    "icrc",
+    "ICRC",
+    "W2E",
+    "subaccount",
+    "jsbi",
+    "JSBI",
+    "distrikt",
+    "dscvr",
+    "passcode",
+    "numbro",
+    "reduxjs",
+    "astrox",
+    "nfid",
+    "NFID",
+    "Gitbook",
+    "DSCVR",
+    "nonfungible",
+    "clickaway",
+    "snackbars",
+    "lingui",
+    "toformat",
+    "notistack",
+    "ethersproject",
+    "unstake",
+    "craco",
+    "typechain"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "dip20.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/token/dip20.ts"
+    ],
+    "names": [],
+    "mappings": "AACA,OAAO,EAAE,aAAa,EAAE,MAAM,gBAAgB,CAAC;AAC/C,OAAO,EACL,KAAK,EACL,YAAY,EAGZ,GAAG,EAEH,WAAW,EAEZ,MAAM,iBAAiB,CAAC;AAEzB,eAAO,MAAM,GAAG,cAAe,aAAa,yDAKxC,CAAC;AAEL,eAAO,MAAM,KAAK,eAAgB,MAAM,aAAa,aAAa,2DAK9D,CAAC;AAEL,eAAO,MAAM,iBAAiB,eAChB,MAAM,aACP,aAAa,kEAMtB,CAAC;AAEL,eAAO,MAAM,gBAAgB,eACf,MAAM,aACP,aAAa,iEAMtB,CAAC"
+}

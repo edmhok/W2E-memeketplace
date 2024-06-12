@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "voting.d.ts",
+    "sourceRoot": "",
+    "sources": [
+        "../src/voting.ts"
+    ],
+    "names": [],
+    "mappings": "AAEA,OAAO,EAAE,aAAa,EAAE,MAAM,gBAAgB,CAAC;AAE/C,OAAO,EACL,cAAc,EAEd,QAAQ,EAER,WAAW,EAEZ,MAAM,iBAAiB,CAAC;AAEzB,eAAO,MAAM,gBAAgB,cAAe,aAAa,oEAKrD,CAAC;AAEL,eAAO,MAAM,cAAc,eAAgB,MAAM,aAAa,aAAa,iEAKvE,CAAC;AAEL,eAAO,MAAM,UAAU,eAAgB,MAAM,aAAa,aAAa,8DAKnE,CAAC"
+}

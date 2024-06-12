@@ -1,0 +1,1 @@
+{"version":3,"file":"dip20_balance.d.ts","sourceRoot":"","sources":["../../src/dip20/dip20_balance.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,SAAS,EAAE,MAAM,oBAAoB,CAAC;AAEpD,MAAM,CAAC,OAAO,WAAW,QAAQ;IAC/B,SAAS,EAAE,CAAC,KAAK,EAAE,SAAS,KAAK,OAAO,CAAC,MAAM,CAAC,CAAC;CAClD"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"neuronCommand.d.ts","sourceRoot":"","sources":["../../src/sns/neuronCommand.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,SAAS,EAAE,MAAM,gBAAgB,CAAC;AAEhD,wBAAgB,sBAAsB,CAAC,SAAS,EAAE,SAAS,GAAG,EAAE,GAAG,CAAC;IAAE,SAAS,EAAE;QAAE,SAAS,EAAE,EAAE,GAAG,CAAC,SAAS,CAAC,CAAA;KAAE,CAAA;CAAE,CAAC,CAQlH"}

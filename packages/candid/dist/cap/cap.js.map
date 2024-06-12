@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "cap.js",
+    "sourceRoot": "",
+    "sources": [
+        "../../src/cap/cap.ts"
+    ],
+    "names": [],
+    "mappings": "AAgBC,CAAC;AAID,CAAC;AAID,CAAC;AAKD,CAAC;AAQD,CAAC;AAKD,CAAC;AAKD,CAAC;AAKD,CAAC;AAC+D,CAAC;AACX,CAAC;AAIvD,CAAC;AA2BD,CAAC"
+}

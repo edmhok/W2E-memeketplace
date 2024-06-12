@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "ic.js",
+    "sourceRoot": "",
+    "sources": [
+        "../src/ic.ts"
+    ],
+    "names": [],
+    "mappings": "AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,qBAAqB,CAAC;AAEjD,OAAO;AACP,MAAM,UAAU,cAAc,CAC5B,GAAmC;IAEnC,IAAI,GAAG,IAAI,GAAG,YAAY,KAAK;QAAE,OAAO,KAAK,CAAC;IAC9C,OAAO,IAAI,CAAC;AACd,CAAC;AAED,MAAM,UAAU,YAAY,CAAC,GAAQ;IACnC,IAAI,GAAG,IAAI,GAAG,YAAY,UAAU;QAAE,OAAO,IAAI,CAAC;IAClD,OAAO,KAAK,CAAC;AACf,CAAC"
+}
